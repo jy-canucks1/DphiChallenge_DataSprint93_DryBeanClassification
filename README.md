@@ -1,2 +1,2 @@
 # DphiChallenge_DataSprint93_DryBeanClassification
-TensorflowModel and CSDataSci_Challenge
+TensorflowModel and CSV Extractor for DataSci_Challenge
