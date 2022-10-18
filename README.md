@@ -3,7 +3,7 @@
 Goal : Build ML model and make prediction for the types of beans corresponding to data  
 (The prediction should be in a .csv file)  
 
-Result : 92.5% for public test and 	90.0667% for private test(test for ranking)  
+Result(ID: waterloocanucks1) - 92.5% for public test and 	90.0667% for private test(test for ranking)  
 
 # Tools
 
